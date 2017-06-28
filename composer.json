@@ -1,0 +1,21 @@
+{
+  "name": "brisum/module-mailing",
+  "description": "Mailing",
+  "keywords": [
+    "mailing"
+  ],
+  "homepage": "https://github.com/brisum/php-module-mailing",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Brisum\\Mailing\\": "src/"
+    }
+  }
+}
